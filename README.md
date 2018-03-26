@@ -41,8 +41,6 @@
   - [ ]  Audio modules
 
   Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-# Configuration Instructions
   
 # Installation Instructions
 _Visit: https://github.com/teqnickels/GhostWebb/wiki/Installation-Instructions and follow installation the installation   instructions_

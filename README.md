@@ -49,11 +49,40 @@ _Visit: https://github.com/teqnickels/GhostWebb/wiki/Installation-Instructions a
 # Operating Instructions
 
 # File Structure
+```
+app
+  ├── index.html
+  ├── package-lock.json
+  ├── package.json
+  ├── src
+  │   ├── actions
+  │   │   └── index.js
+  │   ├── components
+  │   │   ├── App.js
+  │   │   └── MapContainer.js
+  │   ├── config.js
+  │   ├── containers
+  │   ├── data
+  │   │   └── markersData.json
+  │   ├── index.js
+  │   └── reducers
+  │       └── index.js
+  ├── style
+  │   └── style.css
+  ├── test
+  │   ├── components
+  │   │   └── app_test.js
+  │   └── test_helper.js
+  └── webpack.config.js
+```
 
+
+   
 # Licensing
+MIT License
 
 # Contact Information 
-
+ 
 # Known Bugs
 
 # Troubleshooting

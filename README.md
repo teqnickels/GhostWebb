@@ -81,7 +81,7 @@ app
  This project is currently unfinished. To do items are listed unchecked in the changelog in this document. 
  
 # Credits and Acknowledgments
- This project is the creation of https://github.com/HJBowers and we paired on the project prior to this fork. 
+ This project is the creation of https://github.com/HJBowers and we paired on the project prior to this fork. I am also following tutorials on React and Redux on Udemy and using a React and Redux boilerplate from https://github.com/stephengrider. 
  
 # Changelog
 - [ ] Build out React scaffolding

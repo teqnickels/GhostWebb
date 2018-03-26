@@ -75,38 +75,30 @@ app
   │   └── test_helper.js
   └── webpack.config.js
 ```
-
-
    
 # Licensing
-MIT License
+ MIT License
 
-# Contact Information 
- 
 # Known Bugs
-
-# Troubleshooting
-
+ This project is currently unfinished. To do items are listed unchecked in the changelog in this document. 
+ 
 # Credits and Acknowledgments
-
+ This project is the creation of https://github.com/HJBowers and we paired on the project prior to this fork. 
+ 
 # Changelog
-
+- [ ] Build out React scaffolding
+  - [x] App Component
+  - [x] Map Component
+  - [ ] Markers Component
+  - [ ] Recorder Component
+  - [ ] Login Component
+  - [ ] Signup Component
+  - [ ] Profile Component
+  - [ ] Search Component
+- [ ] Implement Google Maps API
+  - [ ] Implement Google Places
+  - [ ] Default Location (If no location can be retrieved from user) should be in Oakland, CA. 
+  
 # News
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```

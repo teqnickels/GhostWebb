@@ -45,7 +45,7 @@
 # Configuration Instructions
   
 # Installation Instructions
-
+_Visit: https://github.com/teqnickels/GhostWebb/wiki/Installation-Instructions and follow installation the installation   instructions_
 # Operating Instructions
 
 # File Structure
